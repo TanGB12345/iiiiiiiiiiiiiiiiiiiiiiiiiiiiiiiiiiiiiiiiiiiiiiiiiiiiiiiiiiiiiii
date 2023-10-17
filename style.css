@@ -1,0 +1,11 @@
+.heading{
+    font-size:20px;
+    color:black;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+.back{
+    float:right;
+}
